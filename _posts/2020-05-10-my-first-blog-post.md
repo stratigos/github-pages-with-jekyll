@@ -1,3 +1,8 @@
+---
+title: "Microsoft must drop ICE contracts"
+date: 2020-04-20
+---
+
 I dont like hyphens-only, I like underscores for things between phrases, and hyphens for things within phrases.
 
 For example, the filename reads better as: `2020-05-10_my-first-blog-post.md`. 
